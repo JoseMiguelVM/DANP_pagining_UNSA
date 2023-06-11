@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Countries App</string>
+    <string name="name">Nombre: </string>
+    <string name="continent">Continente: </string>
+    <string name="capital">Capital: </string>
+    <string name="codes">Codigo_Telf: </string>
+    <string name="tld">TLD: </string>
+    <string name="extension">Km2: </string>
+    <string name="codigos">Codigos: </string>
+</resources>
